@@ -23,7 +23,7 @@ pip install -r requirements.txt
 ```
 
 ### 2. Checkpoint
-Download [DINOv3](https://github.com/facebookresearch/dinov3) pretrained weights and place them in:
+Download [DINOv3](https://github.com/Shakib-IO/DinoSegmentation/releases/download/v1/dinov3_vits16_pretrain_lvd1689m-08c60483.pth) pretrained weights and place them in:
 
 ```
 ./web_pth
