@@ -1,0 +1,11 @@
+python test_segdino.py \
+  --data_dir ./data \
+  --dataset rock \
+  --input_h 512 --input_w 512 \
+  --dino_size s \
+  --dino_ckpt ./web_pth/dinov3_vits16_pretrain_lvd1689m-08c60483.pth \
+  --ckpt ./runs/segdino_s_512_rock/ckpts/latest.pth \
+  --repo_dir ./dinov3 \
+  --img_dir_name img \
+  --label_dir_name label \
+  --mask_ext '.png'
