@@ -10,7 +10,7 @@ SegDINO, an efficient image segmentation framework that couples a frozen DINOv3 
 ```bash
 # 1. Clone this Repository
 git clone https://github.com/Shakib-IO/DinoSegmentation.git
-cd GeoSegment
+cd DinoSegmentation
 
 # (Must Required Python 3.10+)
 # 2. Create a virtual environment 
